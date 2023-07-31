@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"pkmirror_config_db","json":{"types":["I","I","I"],"fields":["id","changeEnemyCostItemId","changeEnemyCostAmount"],"values":[["1","1","5"]]}}

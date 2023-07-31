@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"stage_score_mapping_db","json":{"types":["I","I","S"],"fields":["score","rating","texture"],"values":[["0","1",""],["60","2","2d/ui/result/art_10.png"],["70","3","2d/ui/result/art_11.png"],["90","4","2d/ui/result/art_12.png"]]}}

@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"ad_reward_db","json":{"types":["I","S","S","I","S","I","S"],"fields":["id","name","icon","weight","adEventId","dailyCount","buttonTexture"],"values":[["1","免费钻石","2d/ui/shop/mall/icon07","50","hud_free_rmb","10","2d/ui/hud/btn_free_rmb"],["2","免费金币","2d/ui/shop/mall/icon06","50","hud_free_gold","10","2d/ui/hud/btn_free_gold"]]}}

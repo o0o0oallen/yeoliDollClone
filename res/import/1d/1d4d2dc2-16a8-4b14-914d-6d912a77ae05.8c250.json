@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"guide_const_db","json":{"types":["S","I"],"fields":["key","value"],"values":[["GUIDE_PET_ID","111"],["GUIDE_COMBINED_CLOTH_ID","700029"],["GUIDE_SHOP_BUY_ITEM_ID","4016"]]}}

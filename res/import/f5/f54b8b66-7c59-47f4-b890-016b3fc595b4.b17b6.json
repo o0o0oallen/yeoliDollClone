@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"cosmetic_background_db","json":{"types":["I","S"],"fields":["id","texture"],"values":[["1","2d/bg/bg_room.jpg"],["2","2d/bg/bg_room.jpg"]]}}

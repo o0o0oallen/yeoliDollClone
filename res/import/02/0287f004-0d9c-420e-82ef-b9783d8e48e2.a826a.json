@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"tag_mapping_db","json":{"types":["S","S"],"fields":["src","dst"],"values":[["white","c:ffffff"],["black","c:000000"],["red","c:ff0000"],["yellow","c:ffff00"],["green","c:00ff00"],["blue","c:0000ff"],["key","c:fd9501"]]}}

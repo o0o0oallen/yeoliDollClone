@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"wish_module_config_db","json":{"types":["I","A","A","I","I","A"],"fields":["id","preBoxIds","normalBoxIds","firstCost","costGrowthBase","suitIds"],"values":[["1","[501,502,503,504]","[505,506,507,508,509,510,511,512,513,514,515,516,517]","500","100","[2007,6008]"]]}}

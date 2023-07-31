@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"pvp_like_reward_db","json":{"types":["I","I","I","I"],"fields":["id","count","rewardItemId","rewardAmount"],"values":[["1","10","1","5"]]}}

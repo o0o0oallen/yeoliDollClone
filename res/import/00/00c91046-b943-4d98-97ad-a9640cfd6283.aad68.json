@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"happy_five_one_config_db","json":{"types":["I","I","I","I","I","I","I","I"],"fields":["id","startYear","startMonth","startDay","endYear","endMonth","endDay","suitId"],"values":[["1","2020","5","1","2020","5","10","6007"]]}}

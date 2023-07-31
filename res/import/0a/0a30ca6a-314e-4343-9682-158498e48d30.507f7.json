@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"shop_discount_config","json":{"types":["I","I","O","O"],"fields":["id","refreshGap","minCountsByPriceUnit","categorys"],"values":[["1","36000","[[1,2], [2, 2]]","[11,13,14,15,16,17]"],["","","",""],["","","",""]]}}

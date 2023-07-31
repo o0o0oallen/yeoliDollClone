@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"shop_router_db","json":{"types":["I","O","I","S","O"],"fields":["id","aluIds","triggerRatio","triggerRatioFromCopKey","targets"],"values":[["2","[\"video_gold_yes\"]","100","","[[205, 100, \"vHudFreeGoldDialog\"]]"],["107","[\"video_gold_yes\"]","100","","[[205, 100, \"vHudFreeGoldDialog\"]]"]]}}

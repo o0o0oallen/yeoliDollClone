@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"sign_suit_db","json":{"types":["S","I"],"fields":["key","value"],"values":[["minGoldNum","1000"],["maxGoldNum","10000"]]}}
